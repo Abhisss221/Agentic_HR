@@ -1,6 +1,3 @@
-Here’s the README file content, ready for copy-pasting:
-
----
 
 # Agentic HR: AI-Powered Resume Analyzer  
 
@@ -59,18 +56,3 @@ Here’s the README file content, ready for copy-pasting:
 
 5. Upload your resume and get detailed feedback on your chances of job selection and Ivy League admission!  
 
-## Contributing  
-
-Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.  
-
-## License  
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.  
-
-## Contact  
-
-For questions or feedback, reach out via email at [your-email@example.com].  
-
----  
-
-Let me know if you'd like me to generate a sample `requirements.txt` or `main.py` file!
